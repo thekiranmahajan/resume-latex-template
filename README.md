@@ -23,4 +23,4 @@
 
 Author: [Timmy Chan](https://www.overleaf.com/latex/templates/data-science-tech-resume-template/zcdmpfxrzjhv)
 
-### Last Updated: May 31st, 2024.
+### Last Updated: June 2nd, 2024.
